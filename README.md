@@ -28,5 +28,12 @@ MULTIPLE LINE COMMENT (DOC STRING): """...............""" OR '''............'''
 > True,False,None,if,else,elif,in,not,is,break,continue,pass,lambda,def,del,as,assert,for,while etc
 
 ~ OPERATORS IN PYTHON PROGRAMMING :
+> ARITHMERIC OPERATOR : +,-,*,/ ,%, **, // .
+> RELATIONSHIP OPERATOR : < > <= >= <>/!= ==
+> LOGICAL OPERATOR : OR AND NOT
+> ASSIGNMENT OPERATOR :
+> BETWISE OPERATOR :
+> IDENTITY OPERATOR : IS , IS NOT
+> MEMBERSHIP OPERATOR : IN NOT IN
 
 
